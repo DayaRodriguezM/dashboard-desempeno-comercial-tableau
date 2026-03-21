@@ -29,7 +29,7 @@ Diseñar un dashboard ejecutivo que permita monitorear el comportamiento de ingr
 - Gráfico de ingresos por categoría de producto y segmento de cliente
 - Filtros interactivos por año, país, categoría de producto y estación
 
-### Vista Detail
+### Vista Detalle
 - Ingresos por año y estación
 - Comparación de margen bruto por región
 - Ingresos por país y segmento de cliente
