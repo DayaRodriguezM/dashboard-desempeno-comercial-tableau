@@ -60,10 +60,10 @@ Puedes explorar la versión interactiva del dashboard en Tableau Public aquí:
 ## Capturas del proyecto
 
 ### Overview
-![Overview del dashboard](images/overview-dashboard.png)
+![Overview del dashboard](images/Overview.png)
 
 ### Detail
-![Detail del dashboard](images/detail-dashboard.png)
+![Detail del dashboard](images/Detalle.png)
 
 ## Nota
 El análisis fue diseñado inicialmente como parte del proceso de exploración en Power BI. Sin embargo, para fines de portafolio y acceso público, la versión documentada y compartida en este repositorio corresponde a Tableau Public.
