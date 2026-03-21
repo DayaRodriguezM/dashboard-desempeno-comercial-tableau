@@ -55,7 +55,7 @@ A partir de esta clasificación se calculó la participación de ventas de alto 
 ## Dashboard público
 
 Puedes explorar la versión interactiva del dashboard en Tableau Public aquí:  
-**(https://public.tableau.com/authoring/Proyecto9_Dayana_Rodriguez/Dashboard1/Detalle#1)**
+**https://public.tableau.com/views/Poyecto9_Dayana_Rodriguez/Overview?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_linkhttps://public.tableau.com/views/Poyecto9_Dayana_Rodriguez/Detalle?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 
 ## Capturas del proyecto
 
