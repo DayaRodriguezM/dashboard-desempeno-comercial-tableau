@@ -4,7 +4,7 @@ Proyecto de análisis y visualización de datos desarrollado en Tableau Public p
 
 ## Objetivo
 
-Diseñar un dashboard ejecutivo que permita monitorear el comportamiento de ingresos y rentabilidad, identificar patrones de estacionalidad y comparar el desempeño por país, categoría de producto y segmento de cliente.
+Como parte de un proyecto del bootcamp de análisis de datos, diseñar un dashboard ejecutivo que permita analizar el desempeño comercial de Andes Retail Group, facilitando la toma de decisiones a través de la visualización de ingresos, rentabilidad y comportamiento por segmento.
 
 ## Herramientas utilizadas
 
